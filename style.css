@@ -13,7 +13,7 @@ body {  font-family: "Ubuntu", sans-serif;
   .displayStep {  display: flex;  justify-content: center;
     width: 274px;  height: 568px;
     background-color: rgba(30, 16, 186, 0);
-    background-image: url(./image/bg-sidebar-desktop.svg);
+    background-image: url(./Images/desktop.svg);
   }
   
   .circle {  position: relative;
